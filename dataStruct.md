@@ -28,4 +28,4 @@ type ValNode struct {
 
 1.maxsize
 
-2.front  rear
+2.front  
