@@ -29,3 +29,6 @@ type ValNode struct {
 1.maxsize
 
 2.front  
+
+#### 环形队列 充分利用数组 (rare+1)%maxsize
+
